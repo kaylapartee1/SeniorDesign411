@@ -1,6 +1,6 @@
 # seniordesign
 
-A new Flutter project.
+A new Flutter project. This is a semi-fully functional flutter application with Firebase login and log out authentication. The sign up authentication is not functioning. The app has a journal entry function which is stored in Firebase, in app stored meditations and affirmations for mindfulness practice for users, and a task tracker function.
 
 ## Getting Started
 
